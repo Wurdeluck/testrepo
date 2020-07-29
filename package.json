@@ -1,0 +1,33 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "Test app to get familiar with JS, nodejs, angular and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wurdeluck/testrepo.git"
+  },
+  "keywords": [
+    "express",
+    "angular",
+    "mongodb",
+    "mongoose",
+    "nodejs"
+  ],
+  "author": "Wurdeluck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wurdeluck/testrepo/issues"
+  },
+  "homepage": "https://github.com/Wurdeluck/testrepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
